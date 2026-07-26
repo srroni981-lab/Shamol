@@ -1,0 +1,6 @@
+{
+  "name": "TokTok",
+  "description": "Short-form video app with vertical feed, creator gifts, watch-to-earn rewards, coin wallet, and monetization studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
